@@ -14,4 +14,5 @@ Planned Features:
 6. Print Results Nicely using gem Terminal-Table
 
 STATUS: TEMPORARILY ABANDONED
+
 REASON: Realized it would be more useful as a full Web App.
